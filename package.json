@@ -11,7 +11,7 @@
     "native-base": "^2.12.2",
     "prettier": "^1.16.4",
     "react": "16.8.3",
-    "react-native": "0.59.0",
+    "react-native": "0.62.3",
     "react-native-linear-gradient": "^2.4.0",
     "react-native-sqlite-storage": "^3.3.11"
   },
